@@ -1,12 +1,10 @@
 ## About me:
 
-
-
-Personal projects in data analysis
-
-My name is Alberto Jimenez, I am an Industrial Electronics Specialist (E.T.P.CLot) with a Master in Business Intelligence and Data Science (IEBS). I work every day to be a good Data Scientist and help with my knowledge to make 'data driven' decisions better.
+My name is Alberto Jimenez, I am an Industrial Electronics Specialist (E.T.P.CLot) with a Master in Business Intelligence and Data Science (IEBS). I work every day to be a good Data Scientist.
 
 In this repository are my projects related to Data Science:
+
+
 
 
 
@@ -23,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ and help with my knowledge to make 'data driven' decisions better.
 -->
