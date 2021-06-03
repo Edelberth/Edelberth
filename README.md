@@ -4,9 +4,11 @@
 
 Personal projects in data analysis
 
-My name is Alberto Jimenez and I am an Industrial Electronics Specialist (E.T.P.CLot) with a Master in Business Intelligence and Data Science (IEBS). I work every day to be a good data scientist and help with my knowledge to make 'data driven' decisions.
+My name is Alberto Jimenez, I am an Industrial Electronics Specialist (E.T.P.CLot) with a Master in Business Intelligence and Data Science (IEBS). I work every day to be a good Data Scientist and help with my knowledge to make 'data driven' decisions better.
 
-In this repository are my projects related to data science.
+In this repository are my projects related to Data Science:
+
+
 
 <!--
 **Edelberth/Edelberth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
