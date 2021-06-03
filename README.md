@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  and help with my knowledge to make 'data driven' decisions better.
 -->
+
+
+![Edelberth github stats](https://github-readme-stats.vercel.app/api?username=Edelberth&theme=default_icons=true)
