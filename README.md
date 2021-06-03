@@ -4,8 +4,11 @@ My name is Alberto Jimenez, I am an Industrial Electronics Specialist (E.T.P.CLo
 
 In this repository are my projects related to Data Science:
 
-[Exploring eBay_Car_Sales_Data short](https://github.com/Edelberth/data_projects/blob/main/Exploring_eBay_Car_Sales_Data_short_df.ipynb)
+
 ---
+
+
+[Exploring eBay_Car_Sales_Data short](https://github.com/Edelberth/data_projects/blob/main/Exploring_eBay_Car_Sales_Data_short_df.ipynb)
 
 
 
