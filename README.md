@@ -10,6 +10,9 @@ In this repository are my projects related to Data Science:
 
 [Exploring eBay_Car_Sales_Data short](https://github.com/Edelberth/data_projects/blob/main/Exploring_eBay_Car_Sales_Data_short_df.ipynb)
 
+[Exploring Hacker_News](https://github.com/Edelberth/data_projects/blob/main/Hacker_news-DQ.ipynb)
+
+
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
