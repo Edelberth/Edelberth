@@ -12,6 +12,8 @@ In this repository are my projects related to Data Science:
 
 [Exploring Hacker_News](https://github.com/Edelberth/data_projects/blob/main/Hacker_news-DQ.ipynb)
 
+[Traffic on the I-94 Interstate highway](https://github.com/Edelberth/data_projects/blob/main/Traffic on the I-94 Interstate highway.ipynb)
+
 
 
 ## Connect with me
