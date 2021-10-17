@@ -14,7 +14,7 @@ In this repository are my projects related to Data Science:
 
 [Traffic on the I-94 Interstate highway](https://github.com/Edelberth/data_projects/blob/main/Traffic_on_the_I-94_Interstate_highway.ipynb)
 
-[Sonus transcriber git](https://github.com/Edelberth/data_projects/blob/main/Sonus%20transcriber%20git.ipynb)
+[Sonus transcriber](https://github.com/Edelberth/data_projects/blob/main/Sonus%20transcriber%20git.ipynb)
 
 
 
