@@ -1,12 +1,11 @@
 ### Hello World:
 
-My name is Alberto Jimenez, I am an Industrial Electronics Specialist (E.T.P.CLot) with a Master in Business Intelligence and Data Science (IEBS). I work every day to be a good Data Scientist.
+My name is Alberto Jimenez, I am a Linux user and a Industrial Electronics Specialist (E.T.P.CLot) with a Master in Business Intelligence and Data Science (IEBS). I studied electronics fundamentally to know the functioning of things, now I studying again to know the environment that surrounds me through data analysis, from a more technical perspective (as a programmer) or from intelligence as an information analyst apprentice.
 
-In this repository are my projects related to Data Science:
 
+In this repository are my projects (finalized for now) related to Data Science:
 
 ---
-
 
 [Exploring eBay_Car_Sales_Data short](https://github.com/Edelberth/data_projects/blob/main/Exploring_eBay_Car_Sales_Data_short_df.ipynb)
 
