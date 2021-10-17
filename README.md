@@ -37,10 +37,6 @@ In this repository are my projects (finalized for now) related to Data Science:
 <br>
 <br>
 
-
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/mynetwork/)
-
-
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/R-R-blue" />](https://www.diegocalvo.es/clasificacion-frecuencial-de-audio-mediante-aprendizaje-no-supervisado-y-reduccion-de-dimensionalidad-aplicada-al-escalamiento-multidimensional-mds/)
 
 
