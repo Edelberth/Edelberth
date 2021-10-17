@@ -15,6 +15,7 @@ In this repository are my projects (finalized for now) related to Data Science:
 
 [Sonus transcriber `OSINT tool`](https://github.com/Edelberth/data_projects/blob/main/Sonus%20transcriber.ipynb)
 
+[Sonus transcriber `OSINT tool` instructions](https://github.com/Edelberth/data_projects/blob/main/Sonus_transcriber_unicamente_instrucciones.pdf)
 
 
 
